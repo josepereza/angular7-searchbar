@@ -2,7 +2,9 @@
 
 ![alt image](https://i.ibb.co/9qNj1DD/presentation.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
-
+## Otro ejemplo
+###  Angular 9|8 Add Debounce Time using RxJS 6 to Optimize Search Input for API results from server
+https://www.freakyjolly.com/angular-rxjs-debounce-time-optimize-search-for-server-response/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
